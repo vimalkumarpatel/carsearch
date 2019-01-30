@@ -1,6 +1,7 @@
 # carsearch
 
 [![Build Status](https://travis-ci.org/vimalkumarpatel/carsearch.svg?branch=master)](https://travis-ci.org/vimalkumarpatel/carsearch)
+
 Yet another Demo Spring Boot App
 
 This webapp is a simple spring-boot application that has an in-memory H2 database.
